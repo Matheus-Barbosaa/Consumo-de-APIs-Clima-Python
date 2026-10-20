@@ -1,0 +1,6 @@
+cidade,temperatura,condicao,umidade,vento,probabilidade_chuva
+"São Paulo, SP",16,Tempo nublado,82,16.09 km/h,0
+"Rio de Janeiro, RJ",21,Tempo nublado,65,14.83 km/h,100
+"Curitiba, PR",14,Parcialmente nublado,85,16.67 km/h,0
+"Florianópolis, SC",17,Tempo nublado,74,20.38 km/h,0
+"Porto Alegre, RS",17,Tempo nublado,64,16.67 km/h,4
